@@ -37,7 +37,7 @@ Java Algorithm Lab은 아래와 같은 목적으로 설계되었습니다:
 - [Binary Search](src/ch02/BinarySearchProblem.java)
 
 ### 📌 그래프 알고리즘
-- [DFS (깊이 우선 탐색)](src/ch04/dfs/DfsSearch.java)
+- [DFS (깊이 우선 탐색)](그래프알고리즘)
 - [BFS (너비 우선 탐색)](src/ch04/bfs/BfsSearch.java)
 
 
