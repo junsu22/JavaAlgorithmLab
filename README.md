@@ -34,7 +34,7 @@ Java Algorithm Lab은 아래와 같은 목적으로 설계되었습니다:
 - [Heap Sort](정렬알고리즘/HeapSort.java)
 
 ### 📌 탐색 알고리즘
-- [Binary Search](src/ch02/BinarySearchProblem.java)
+- [Binary Search](탐색알고리즘/BinarySearchProblem.java)
 
 ### 📌 그래프 알고리즘
 - [DFS (깊이 우선 탐색)](그래프알고리즘)
