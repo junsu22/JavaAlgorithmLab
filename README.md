@@ -31,7 +31,7 @@ Java Algorithm Lab은 아래와 같은 목적으로 설계되었습니다:
 
 ### 📌 정렬 알고리즘
 - [Insertion Sort](정렬알고리즘/InsertionSort.java)
-- [Heap Sort](src/ch03/HeapSort.java)
+- [Heap Sort](정렬알고리즘/HeapSort.java)
 
 ### 📌 탐색 알고리즘
 - [Binary Search](src/ch02/BinarySearchProblem.java)
