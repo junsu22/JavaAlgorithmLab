@@ -59,5 +59,5 @@ Java Algorithm Lab은 아래와 같은 목적으로 설계되었습니다:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/username/JavaAlgorithmLab.git
+   git clone https://github.com/junsu22/JavaAlgorithmLab.git
    cd JavaAlgorithmLab
