@@ -6,20 +6,10 @@
 이 프로젝트는 알고리즘 학습과 문제 해결 능력을 향상시키기 위해 만들어졌으며, 
 각 코드에는 학습을 돕기 위한 주석과 설명이 포함되어 있습니다.
 
----
-
-## 📚 목차
-
-- [프로젝트 소개](#프로젝트-소개)
-- [특징](#특징)
-- [구현 알고리즘](#구현-알고리즘)
-- [설치 및 실행](#설치-및-실행)
-- [기여 방법](#기여-방법)
-- [라이선스](#라이선스)
 
 ---
 
-## 프로젝트 소개
+## 📚 프로젝트 소개
 
 Java Algorithm Lab은 아래와 같은 목적으로 설계되었습니다:
 
@@ -50,14 +40,4 @@ Java Algorithm Lab은 아래와 같은 목적으로 설계되었습니다:
 - [DFS (깊이 우선 탐색)](src/ch04/dfs/DfsSearch.java)
 - [BFS (너비 우선 탐색)](src/ch04/bfs/BfsSearch.java)
 
-### 📌 기타
-- [MinMax Problem](src/ch01/MinMaxProblem.java)
 
----
-
-## 설치 및 실행
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/junsu22/JavaAlgorithmLab.git
-   cd JavaAlgorithmLab
